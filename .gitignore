@@ -1,0 +1,10 @@
+# Obsidian notes
+
+wiki/
+
+# Visual Studio files
+
+.vs/
+*.suo
+*.vsidx
+*.json
