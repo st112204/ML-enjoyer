@@ -1,3 +1,6 @@
+data source:
+https://www.kaggle.com/datasets/muhammadroshaanriaz/time-wasters-on-social-media/data
+
 # Задача 1. Разведочный анализ
 
 * **Дедлайн**: 12.03.2025, 23:59
